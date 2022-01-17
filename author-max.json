@@ -1,0 +1,1 @@
+{"attributes":{},"nodes":[{"key":"1","attributes":{"label":"Max","slug":"max","cat":"author","size":null,"x":0,"y":0}},{"key":"0","attributes":{"slug":"hello-world","cat":"ressource","size":null,"x":1,"y":-1}}],"edges":[{"key":"geid_108_0","source":"1","target":"0"},{"key":"geid_108_1","source":"0","target":"1"}],"options":{"type":"mixed","multi":false,"allowSelfLoops":true}}
