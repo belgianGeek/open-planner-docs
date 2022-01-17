@@ -1,5 +1,5 @@
 module.exports = {
-    base_url: "https://github.com/Greaby/telescope/",
+    base_url: "http://www.maxvdw.ovh/open-planner-docs/",
 
     seed: "telescope",
 
