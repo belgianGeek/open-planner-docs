@@ -1,6 +1,5 @@
 module.exports = {
     base_url: "http://www.maxvdw.ovh/open-planner-docs/",
-
     seed: "telescope",
 
     folders: {
@@ -12,11 +11,11 @@ module.exports = {
     },
 
     labels: {
-        project_title: "Telescope",
-        see_also: "See also",
-        search: "Search",
-        tags: "Tags",
-        authors: "Authors",
+        project_title: "Documentation d'Open Planner",
+        see_also: "Voir aussi",
+        search: "Recherche",
+        tags: "Mots-clés",
+        authors: "Auteurs",
     },
 
     graph: {
