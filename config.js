@@ -1,5 +1,5 @@
 module.exports = {
-    base_url: "http://www.maxvdw.ovh/open-planner-docs/",
+    base_url: "http://www.openplanner.maxvdw.ovh/",
     seed: "telescope",
 
     folders: {
