@@ -1,9 +1,11 @@
 ---
 authors: [BelgianGeek]
 tags: [
-  installation,
-  base de données,
-  paramètres
+  Installation,
+  Base de données,
+  Paramètres,
+  Paramétrage,
+  Mise en place
 ]
 ---
 # Procédure d'installation

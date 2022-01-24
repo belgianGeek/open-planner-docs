@@ -1,12 +1,17 @@
 ---
 authors: [BelgianGeek]
 tags: [
-  procédure d'utilisation,
-  recherche,
-  comptes utilisateurs,
-  paramètres,
-  email,
-  export de données
+  Comptes utilisateurs,
+  Email,
+  Export de données,
+  Interface,
+  Introduction de demande,
+  Paramètres,
+  Personnalisation,
+  Privilèges,
+  Procédure d'utilisation,
+  Recherche,
+  Usage
 ]
 ---
 # Utilisation
