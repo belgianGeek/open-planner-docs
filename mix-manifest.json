@@ -1,5 +1,6 @@
 {
     "/js//app.js": "/js//app.js",
     "/app.css": "/app.css",
+    "/static/database-diagram.svg": "/static/database-diagram.svg",
     "/static/favicon.svg": "/static/favicon.svg"
 }
